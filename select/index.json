@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "祈りの花",
+  "base_artist": "依田芳乃 (CV: 高田憂希)",
+  "createdAt": "2026-02-24T23:44:22.169609Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "祈りの花",
+      "artist": "依田芳乃 (高田憂希)",
+      "has_synced": false,
+      "path": "select/pl_01_祈りの花_依田芳乃_(高田憂希).txt"
+    }
+  ]
+}
